@@ -1,5 +1,5 @@
 # DutyFree-App
-React-native
+면세점 대리구매상을 위한 앱
 
 <img src="https://user-images.githubusercontent.com/16666658/77287655-68517400-6d19-11ea-9dd8-74a67fb404ca.png" ></img>
 
